@@ -15,7 +15,7 @@
   <img align="center" alt="Baer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Baer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="right" alt="Baer-Csharp" height="200" width="200" src="https://media0.giphy.com/media/h1zp6PDxAT2SBMayG3/200w.webp?cid=ecf05e47hvcock32drfqynpkl016aew875xh28h7j6yy6p0k&rid=200w.webp&ct=s">
+    <img align="right" alt="Baer-Csharp" height="180" width="180" src="https://media0.giphy.com/media/h1zp6PDxAT2SBMayG3/200w.webp?cid=ecf05e47hvcock32drfqynpkl016aew875xh28h7j6yy6p0k&rid=200w.webp&ct=s">
 </div>
   
   ##
@@ -26,8 +26,6 @@
   <a href = "mailto:jonathanbaeremails@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathanbaer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
- 
 </div>
   
-  ![Snake animation](https://github.com/BaerSenac/BaerSenac/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/BaerSenac/JonathanBaer/blob/output/github-contribution-grid-snake.svg)
